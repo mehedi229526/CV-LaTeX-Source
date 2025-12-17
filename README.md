@@ -19,3 +19,5 @@ This repository contains the **LaTeX source code** for my professional CV. I cho
 ## 🔗 Contact
 * **LinkedIn:** [My Profile](https://www.linkedin.com/in/mehedi-hasan-582215160/)
 * **Email:** Mehedi.2hasansohag@gmail.com
+
+Note: If the GitHub preview above shows an error, please click the "Download" button to view the high-resolution PDF.
