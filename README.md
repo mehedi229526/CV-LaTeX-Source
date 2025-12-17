@@ -18,4 +18,4 @@ This repository contains the **LaTeX source code** for my professional CV. I cho
 
 ## 🔗 Contact
 * **LinkedIn:** [My Profile](https://www.linkedin.com/in/mehedi-hasan-582215160/)
-* **Email:** Mehedi.hasansohag@gmail.com
+* **Email:** Mehedi.2hasansohag@gmail.com
